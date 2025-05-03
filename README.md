@@ -1,6 +1,6 @@
 # PySpark-Twitter_Trend_Analysis
 
-This project performs Twitter Trend Analysis using PySpark, enabling scalable processing and analysis of large volumes of tweet data. It focuses on extracting trends (slopes) of input topics and comapre it against the most trending topic.
+This project performs Twitter Trend Analysis using PySpark, enabling scalable processing and analysis of large volumes of tweet data. It focuses on extracting trends (slopes) of input topics and compare it against the most trending topic.
 
 🚀 Features
 1. Extracts and processes tweets using PySpark
