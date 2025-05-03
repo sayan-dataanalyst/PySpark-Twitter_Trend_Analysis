@@ -1,0 +1,1 @@
+{"fields":[{"name":"tweet"},{"name":"countList"},{"name":"dateRankList"},{"name":"slope"}],"rows":[{"tweet":"echt","countList":[1659,190],"dateRankList":[1,2],"slope":"-6.807351940095306E-4"},{"tweet":"laptop","countList":[55,9],"dateRankList":[1,2],"slope":"-0.021739130434782598"}]}

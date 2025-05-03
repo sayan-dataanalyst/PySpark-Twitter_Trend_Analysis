@@ -1,0 +1,1 @@
+laptop slope : -0.021739130434782598, slopeDifference : 1.0217391304347878
